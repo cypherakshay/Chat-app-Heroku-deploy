@@ -7,3 +7,7 @@ Tips on how to use the chat application.
 3. Finally, share this link with friends!
 
 Once you join the same chat room you can communicate with others in real time or choose to share your location.
+
+
+
+i just changed this Readme file
